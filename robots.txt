@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+Algolia-Crawler-Verif: C44493353B8D796C
 User-agent: *
 Disallow:
